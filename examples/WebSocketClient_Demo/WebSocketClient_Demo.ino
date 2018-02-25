@@ -1,8 +1,8 @@
-#include <ESP8266WiFi.h>
+#include <WiFi.h>
 #include <WebSocketClient.h>
 
-const char* ssid     = "SSID HERE";
-const char* password = "PASSWORD HERE";
+const char* ssid     = "iC3Engineering";
+const char* password = "F=MA_e=ir";
 char path[] = "/";
 char host[] = "echo.websocket.org";
   
